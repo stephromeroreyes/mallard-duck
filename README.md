@@ -2,6 +2,7 @@
 <html lang="en" dir="ltr>
   <head>
     <meta charset="utf-8">
+  <title>hi</title>
   </head>
   <body>
     <h1>practice</h1>
