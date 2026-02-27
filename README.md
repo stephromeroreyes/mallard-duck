@@ -1,4 +1,4 @@
-# mallard-duck
+# mallard-duck-practice
 GitHub Flow practice
 <h1>About M(allard Ducks)e</h1>
 <h2>Likes</h2>
