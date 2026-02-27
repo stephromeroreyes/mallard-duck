@@ -7,3 +7,7 @@ GitHub Flow practice
   <li>Potatoes</li>
   <li>Apples</li>
 </ul>
+<h2>Dislikes</h2>
+<ul>
+  <li>Dairy</li>
+</ul>
